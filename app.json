@@ -4,10 +4,10 @@
     "slug": "BibliaApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/LogoBiblia.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/LogoBiblia.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

@@ -29,7 +29,21 @@ const VersoDia = () => {
       </View>
       <View>
         <LinearGradient
-          colors={["#427EB5", "#5AFF7E"]}
+          colors={["#427EB5", "#7470FD"]}
+          start={[0, 0]}
+          end={[1, 1]}
+          style={Styles.gradientButton}
+        >
+        
+          <Button
+            onPress={() => {}}
+            title="Learn More"
+            color="transparent"
+            accessibilityLabel="Learn more about this purple button"
+          />
+        </LinearGradient>
+        <LinearGradient
+          colors={["#BB5A5A", "#BB950C"]}
           start={[0, 0]}
           end={[1, 1]}
           style={Styles.gradientButton}
